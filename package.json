@@ -1,0 +1,1 @@
+{ "name": "harbor-pine-lab-hygiene", "private": true, "type": "module", "scripts": { "check": "node --test" } }
